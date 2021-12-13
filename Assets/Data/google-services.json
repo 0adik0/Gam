@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "625273787218",
+    "firebase_url": "https://casinoandroid-bf7d4.firebaseio.com",
+    "project_id": "casinoandroid-bf7d4",
+    "storage_bucket": "casinoandroid-bf7d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625273787218:android:00f0df918548ebf1f4208b",
+        "android_client_info": {
+          "package_name": "com.bluewater.casino.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625273787218-qu39vi9239qbqguc0tjgr45pig5qtiqs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bluewater.casino.android",
+            "certificate_hash": "ce265cfd26208233460cecb961b97c723d5a0c48"
+          }
+        },
+        {
+          "client_id": "625273787218-heoegeai5o1s8s8ml4g1f46bjfgp46f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnSHycCDsg8MW73SneL8WljP-l1nhsDHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625273787218-heoegeai5o1s8s8ml4g1f46bjfgp46f7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

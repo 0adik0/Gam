@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97841064e27c442f3b45f0e2079b716c, type: 3}
+  m_Name: Pig
+  m_EditorClassIdentifier: 
+  type: 11
+  particle: {fileID: 1978309707650864, guid: 366852ff4f0144fd1990126d21e0b77e, type: 3}
+  animationData:
+    frames:
+    - {fileID: 21300000, guid: ee907358960b048faa06e3242654fd92, type: 3}
+    duration: 1
+    delay: 0
+  sprite: {fileID: 21300000, guid: e7dbed055bcc34ebd92f4a063cf27ada, type: 3}
+  rule:
+    reward:
+    - 0
+    - 10
+    - 30
+    - 300
+    - 2000
+    substitutesForWild: 1

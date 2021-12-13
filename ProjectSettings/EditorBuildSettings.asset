@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameLobby.unity
+    guid: c6307dc85422740cfb34abcccc1b61e7
+  - enabled: 1
+    path: Assets/Scenes/LuckyFarm.unity
+    guid: 177900b17cb47481bbe0620fa101c9b1
+  - enabled: 1
+    path: Assets/Scenes/LuckyFarmLoading.unity
+    guid: e9b319c76ae1e416b8aa5027b4799f32
+  - enabled: 1
+    path: Assets/Scenes/Zombieland.unity
+    guid: 7762382b5f5ed467d844a1f9ec2d3d28
+  - enabled: 1
+    path: Assets/Scenes/ZombielandLoading.unity
+    guid: 242b4ca758dc64ed7a181b30239766e9
+  - enabled: 1
+    path: Assets/Scenes/SevenSlots.unity
+    guid: ad2f409a410a54b3e9be543541227c89
+  - enabled: 1
+    path: Assets/Scenes/SevenSlotsLoading.unity
+    guid: e6d6544083180406f84a226f17764a08
+  - enabled: 1
+    path: Assets/Scenes/KingNutsTreasure.unity
+    guid: 9d62207033040ca48aa801225e3a07df
+  - enabled: 1
+    path: Assets/Scenes/KingNutsTreasureLoading.unity
+    guid: 18eed809b1b1a934c8f8a3cd3d14151b
+  - enabled: 1
+    path: Assets/Scenes/ClassicSevenSlots1.unity
+    guid: 7aeed1551bbfc31478c17d89eee44994
+  - enabled: 1
+    path: Assets/Scenes/ClassicSevenSlots1Loading.unity
+    guid: 8fca9feb87176d545b11a52f6cbc99b5
+  - enabled: 1
+    path: Assets/Scenes/ClassicSevenSlots2.unity
+    guid: 5d87f88195bce204ea4b1b639821bb2f
+  - enabled: 1
+    path: Assets/Scenes/ClassicSevenSlots2Loading.unity
+    guid: ddc2035cc95865741ad76b1696c0aea8
+  m_configObjects: {}
